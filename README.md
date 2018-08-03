@@ -1,4 +1,4 @@
-## Part A
+## Part A. P5 Creative Coding
 
 #### 1. Install Node-JS
 
@@ -119,4 +119,8 @@ And the following code below line 11
 ![alt text](spin.jpg "Title")
 
 
-## Part B
+## Part B. Hardwares & Arduino
+
+Due to security concern, our employee laptops (Beijing Office) do not support serial I/O (our keyboards are the only source of input), which means if you want to get hands on Part B, please bring your own laptop to the workshop, I will guide you through the rest of the installation steps.
+
+Sorry for the inconvenience.
