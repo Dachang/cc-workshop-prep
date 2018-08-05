@@ -54,7 +54,7 @@ cd ..;open .
 
 ![alt text](atom_init.jpg "Title")
 
-#### 11.  Double click the file src/App.js, and replace the entire file with the following code
+#### 11.  Click the file src/App.js, and replace the entire file with the following code
 
 ```javascript
 import React, { Component } from 'react';
@@ -103,10 +103,10 @@ export default function sketch (p) {
 };
 ```
 
-#### 13. Double click the file src/App.js, and add the following code below line 4
+#### 13. Click the file src/App.js, and add the following code below line 4
 
 ```javascript
-import sketch from ‘./sketch';
+import sketch from './sketch';
 ```
 And the following code below line 11
 
