@@ -19,7 +19,7 @@ cd cc-workshop-demo;npm start
 
 ![alt text](react_init.jpg "Title")
 
-#### 5. Switch back to terminal, type
+#### 5. Switch back to terminal, press command + T to open a new tab, and type
 
 ```shell
 npm i react-p5-wrapper —save
